@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Test Project Krishna.iml" filepath="$PROJECT_DIR$/.idea/Test Project Krishna.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test Project Krishna/bmi-calculator.iml" filepath="$PROJECT_DIR$/Test Project Krishna/bmi-calculator.iml" />
+    </modules>
+  </component>
+</project>
